@@ -5832,4 +5832,9 @@ button.close {
     text-align: center;
     line-height: 30px; }
 
+@media (max-width: 600px) {
+  .seccion_uno {
+    background-color: #33485c;
+    padding-top: 11%; } }
+
 /*# sourceMappingURL=main.css.map */
